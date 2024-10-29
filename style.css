@@ -64,10 +64,15 @@ nav{
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.nav-buttons>button:hover {
+.nav-buttons>button,.nav-buttons>.login:hover {
     background-color: #45a049; 
 }
 
-.nav-buttons>button:active {
+.nav-buttons>button,.nav-buttons>.login:active {
     background-color: #3e8e41; 
+}
+
+.nav-buttons>.login{
+    background-color: transparent;
+    border: 1px solid green;
 }
