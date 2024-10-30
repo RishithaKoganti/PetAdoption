@@ -20,19 +20,36 @@ Welcome to the **AniSafe**! This project aims to connect pet lovers with adorabl
 
 ## Installation
 
-1. Clone the repository:
+1. Fork the repository.
+
+3. Click on the code button and copy HTTPS
+ 
+4. Clone the repository:
    ```bash
-   git clone https://github.com/RajputSneha17/PetAdoption.git
+   git clone <HTTPS>
+   
+5. Navigate to the project directory:
+    ```bash
+   cd PetAdoption
+    
+6. Type 
+   ```bash
+   code .
+for open repo in vs code then open 'index.html' file in your browser.
 
-2. Navigate to the project directory:
-    cd PetAdoption   
-
-3. Open the 'index.html' file in your browser.
+6. for  open in file explorer typ 
+    ```bash
+          start .
 
 ## Contributing
 
-- Fork the repository.
-- Create a new branch (git checkout -b feature-branch).
-- Make your changes and commit them (git commit -m 'Add some feature').
-- Push to the branch (git push origin feature-branch).
-- Open a pull request.
+- Create a new branch
+  ```bash
+  git checkout -b <feature-branch>
+- Make your changes and commit them 
+  ```bash
+  git commit -m 'Add some feature'
+- Push to the branch 
+  ```bash
+  git push origin <feature-branch>
+- Open a github, and create a pull request.
