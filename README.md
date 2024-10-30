@@ -5,7 +5,7 @@ Welcome to the **AniSafe**! This project aims to connect pet lovers with adorabl
 ## Features
 
 - **Adopt a Friend for Life**: Our platform connects shelters and farms, allowing them to post their pets for adoption. Pet lovers can then join our website, adopt their favorite pets, and help support these shelters and farms.
-- **Donation Support**: Contribute to help animals in need.
+- **Donation Support**: Our platform connects shelters and farms that provide free treatment to dogs injured by people or for any other reason, as well as offer food to hungry dogs. Through our platform, people can donate or support these shelters and farms in their efforts to help these animals in need.
 - **Emergency Help & Free Medical Assistance**: Access resources for veterinary care.
 
 ## Technologies Used
