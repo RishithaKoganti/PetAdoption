@@ -155,3 +155,35 @@ hr {
         flex-wrap: wrap;
     }
 }
+
+.adopt-pet{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    display: inline-block;
+}
+
+.adopt-pet>img{
+    width: 100%;
+    height: 100%;
+}
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: #06b00f;
+    padding: 10px 50px;
+    border-radius: 10px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+    cursor: pointer;
+    border: none;
+}
+
+.overlay:hover{
+    background-color: #048f0b;
+}
