@@ -39,7 +39,7 @@ for open repo in vs code then open 'index.html' file in your browser.
 
 6. for  open in file explorer typ 
     ```bash
-          start .
+    start .
 
 ## Contributing
 
